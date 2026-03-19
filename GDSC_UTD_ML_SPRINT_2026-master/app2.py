@@ -953,3 +953,4 @@ elif page == "✅ Model Eval":
         <strong style="color:#ff004c;">RMSE</strong> penalises large errors more heavily than MAE.
         </div>
         </div>""", unsafe_allow_html=True)
+        
